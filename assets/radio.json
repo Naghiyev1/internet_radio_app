@@ -1,0 +1,117 @@
+{
+  "radios": [
+    {
+      "id": 1,
+      "name": "Jazz Radio",
+      "tagline": "Ladies & Crooners",
+      "color": "0xffa11431",
+      "desc": "The most beautiful voices in Jazz.",
+      "url": "https://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3",
+      "icon": "https://www.jazzradio.fr/media/radio/thumb/180x180_ladies-and-crooners.webp",
+      "image": "https://i.pinimg.com/originals/50/ff/df/50ffdf7af8776af96303272e92591f9c.gif",
+      "lang": "French",
+      "category": "Ladies & Crooners",
+      "disliked": false,
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Jazz Radio",
+      "tagline": "Jazz & Soul",
+      "color": "0xff221420",
+      "desc": "Rediscover all Jazz & Soul legends",
+      "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+      "icon": "https://www.jazzradio.fr/media/radio/thumb/180x180_61e68a27202d3-logo-jazzradio-radio.webp",
+      "image": "https://vinylgif.com/gifs/201412/cartridge-sinning-vinyl.gif",
+      "lang": "French",
+      "disliked": false,
+      "category": "Jazz & Soul",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Jazz Radio",
+      "tagline": "The best in Blues",
+      "color": "0xff04080b",
+      "desc": "The best in Blues",
+      "url": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+      "icon": "https://www.jazzradio.fr/media/radio/thumb/180x180_blues.webp",
+      "image": "https://64.media.tumblr.com/1adb2ce01d9aa235bf1ef887429adb48/tumblr_n98copouBR1rwo7kqo1_500.gif",
+      "lang": "French",
+      "disliked": false,
+      "category": "Blues",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Jazz Radio",
+      "tagline": "Lounge",
+      "color": "0xff066c53",
+      "desc": "Relaxing sounds from Lounge and Smooth Jazz",
+      "url": "https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3",
+      "icon": "https://www.jazzradio.fr/media/radio/thumb/180x180_lounge.webp",
+      "image": "https://vinylgif.com/gifs/201411/record-363.gif",
+      "lang": "French",
+      "category": "Lounge",
+      "disliked": false,
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Jazz Radio",
+      "tagline": "Piano Jazz",
+      "color": "0xff0d487d",
+      "desc": "The ivory keys of the piano take precedent here",
+      "url": "https://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3",
+      "icon": "https://www.jazzradio.fr/media/radio/thumb/180x180_piano-jazz2.webp",
+      "image": "https://vinylgif.com/gifs/201411/red-vinyl.gif",
+      "lang": "French",
+      "category": "Piano Jazz",
+      "disliked": false,
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Jazz Radio",
+      "tagline": "Classic Jazz",
+      "color": "0xff27383e",
+      "desc": "The artists and music that started it all.",
+      "url": "https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
+      "icon": "https://www.jazzradio.fr/media/radio/thumb/180x180_classic-jazz.webp",
+      "image": "https://66.media.tumblr.com/380bbebae0bd0d092ec389981bd1e8e8/tumblr_oi1by2eCs81qg39ewo1_500.gif",
+      "lang": "French",
+      "category": "Classic Jazz",
+      "disliked": false,
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Jazz Radio",
+      "tagline": "Latin Jazz",
+      "color": "0xffa06a37",
+      "desc": "Where the lively rhythms and spirit of Latin America meet Jazz",
+      "url": "https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3",
+      "icon": "https://uk.radio.net/images/broadcasts/53/3a/12350/2/c300.png",
+      "image": "https://vinylgif.com/gifs/201411/vinyl-45.gif",
+      "lang": "French",
+      "category": "Latin Jazz",
+      "disliked": false,
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Jazz Radio",
+      "tagline": "Jazzy French",
+      "color": "0xff090909",
+      "desc": "Your heartbeat changes to mimics the music you listen to.",
+      "url": "https://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3",
+      "icon": "https://www.jazzradio.fr/media/radio/thumb/180x180_jazzy-french.webp",
+      "image": "https://i.pinimg.com/originals/a3/a4/83/a3a483a5ca7c5e903ad9b821354f037b.gif",
+      "lang": "French",
+      "category": "Jazzy French",
+      "disliked": false,
+      "order": 8
+    }
+  ]
+
+}
